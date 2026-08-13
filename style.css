@@ -142,3 +142,11 @@ canvas{
   height: auto;
   margin-top: 2%;
 }
+
+/*chart*/
+#chart{
+  width: 80%;
+  height: auto;
+}
+
+
